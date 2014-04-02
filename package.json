@@ -1,14 +1,15 @@
 {
   "name": "sort-machine",
   "main": "./lib/sort-machine.js",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Maintain SASS properties in order",
-  "activationEvents": ["sort-machine:launch"],
+  "activationEvents": [
+    "sort-machine:launch"
+  ],
   "repository": "https://github.com/evergreenv/sort-machine",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
